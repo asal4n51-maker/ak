@@ -1,0 +1,4 @@
+cd path\ke\hachinet_react_vite
+npm install -D tailwindcss postcss autoprefixer
+npm install
+npm run dev
